@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-dev",
-    "address": "http://1.2.3.4"
+    "address": "https://c107.eu-de.containers.cloud.ibm.com:30684"
   }
 }
